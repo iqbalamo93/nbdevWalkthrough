@@ -1,2 +1,2 @@
 # nbdevWalkthrough
-A sample of how tp create a deck of cards lib using nbdev
+A sample of how to create a deck of cards lib using nbdev
