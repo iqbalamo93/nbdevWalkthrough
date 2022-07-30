@@ -1,5 +1,5 @@
 # nbdevWalkthrough
 A sample of how to create a deck of cards lib using nbdev
 
-important commands:
+Important commands:
  * nbdev_new 
